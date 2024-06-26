@@ -124,7 +124,7 @@ void mergeSort(int arr[], int s, int e)
 
 int main()
 {
-  int arr[] = {10, 80, 110, 90, 50, 30, 40, 20};
+  int arr[] = {10, 80, 5, 111, 45, 30, 40, 20};
   int size = 8;
   int s = 0;
   int e = size - 1;
